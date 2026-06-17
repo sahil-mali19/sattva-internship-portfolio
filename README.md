@@ -65,7 +65,7 @@ This repository documents the three core projects delivered during my internship
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/sahilmali/sattva-internship-portfolio.git
+git clone https://github.com/sahil-mali19/sattva-internship-portfolio.git
 cd sattva-internship-portfolio
 pip install -r requirements.txt
 
